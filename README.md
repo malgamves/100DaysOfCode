@@ -26,6 +26,19 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
 </details>
 
 <details>
+<summary>Vishwa Mehta (@mehtavishwa30) </summary>
+* Goals:
+  * Learn Machine Learning
+    * With Python
+    * With R
+      *Learn R programming language
+  * Practice with Keras API and TensorFlow
+    * Develop algorithm for Image Processing/Classification
+  * Learn web development with Node.js
+    * Create effective RestAPIs with Node.js
+</details>
+
+<details>
  <summary>Brian Wachira (@briananointed) </summary>
  * Goals:
    * Learn web development
@@ -67,3 +80,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Started with some JavaScript basics and did some Node| Working on a project for a session on Node |  |
+
+### Day 1: August 01, 2018
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
+
