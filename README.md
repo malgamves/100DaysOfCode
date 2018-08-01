@@ -61,3 +61,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 ---
 
 ---
+### Day 1: August 01, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Started with some JavaScript basics and did some Node| Working on a project for a session on Node |  |
