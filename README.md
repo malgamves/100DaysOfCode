@@ -60,6 +60,15 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
    * pick-up a new Language
 </details>    
 
+<details>
+ <summary>Nikhil Singh (@nikhil22897) </summary>
+ 
+ * Goals:
+   * Android Development
+   * Django
+   * Blockchain
+</details>  
+
 ## Challenge
 
 Anyone who backs out has to get each of the others a 100Rs giftcard. 
