@@ -41,7 +41,14 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
    * Learn Core Java
    * Re-Learn Python
    * pick-up a new Language
-</details>    
+</details>   
+<details>
+ <summary>Nikhil Singh(@nikhil22897) </summary>
+ * Goals:
+   * Android Development
+   * Python Framework(Django)
+   * Blockchain(Nptel course)
+</details>   
 
 ## Challenge
 
@@ -67,3 +74,4 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Started with some JavaScript basics and did some Node| Working on a project for a session on Node |  |
+| Started Blockchain course on Nptel| Basics about blockchain||
