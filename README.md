@@ -14,6 +14,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
 
 <details>
 <summary>Daniel Phiri (@malgamves) </summary>
+ 
 * Goals:
   * Learn mobile development
     * React Native
@@ -27,6 +28,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
 
 <details>
 <summary>Vishwa Mehta (@mehtavishwa30) </summary>
+ 
 * Goals:
   * Learn Machine Learning
     * With Python
@@ -39,7 +41,8 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
 </details>
 
 <details>
- <summary>Brian Wachira (@briananointed) </summary>
+<summary>Brian Wachira (@briananointed) </summary>
+ 
  * Goals:
    * Learn web development
      *HTML
@@ -50,6 +53,7 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
  
 <details>
  <summary>Dennis D'Mello (@DenDeMello) </summary>
+ 
  * Goals:
    * Learn Core Java
    * Re-Learn Python
