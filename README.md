@@ -14,7 +14,6 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
 
 <details>
 <summary>Daniel Phiri (@malgamves) </summary>
-
 * Goals:
   * Learn mobile development
     * React Native
@@ -25,6 +24,16 @@ This is the #100DaysOfCode log. It will start August 1st, 2018 and end on Novemb
   * [Transtable](https://github.com/uniphyd/Projects/tree/master/TransferTable)
   * [Zankani](https://github.com/malgamves/zankani)
 </details>
+
+<details>
+ <summary>Brian Wachira (@briananointed) </summary>
+ * Goals:
+   * Learn web development
+     *HTML
+     *CSS
+     *JavaScript
+   * Practice android development
+<details>    
 
 ## Challenge
 
