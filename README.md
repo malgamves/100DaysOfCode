@@ -101,3 +101,10 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
 
+### Day 1: August 01, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learnt cascading and inheritance in html/css| Kinda interesting there's inheritance in html :) |PASS |
+
