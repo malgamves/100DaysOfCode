@@ -101,3 +101,18 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
 
+### Day 1: August 01, 2018
+
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Started with blockchain course on Nptel | Basics of blockchain | x |
+
+### Day 2: August 02, 2018
+
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| 50% of week 1 done of Blockchain | Quite interesting. Distributed and decentralized systems| x |
+
+
