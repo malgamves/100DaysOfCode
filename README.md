@@ -108,3 +108,17 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learnt cascading and inheritance in html/css| Kinda interesting there's inheritance in html :) |PASS |
 
+### Day 1: August 01, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Started Basics of Java | x | x |
+
+### Day 1: August 01, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did Basics of Python | x | x |
+
