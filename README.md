@@ -88,3 +88,10 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
 
+### Day 2: August 02, 2018
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Data processing| Learning Machine Learning A-Z with Python and R |  |
+
