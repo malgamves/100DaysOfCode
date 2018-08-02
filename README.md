@@ -115,7 +115,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started Basics of Java | x | x |
 
-### Day 1: August 01, 2018
+### Day 2: August 02, 2018
 
 #### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
