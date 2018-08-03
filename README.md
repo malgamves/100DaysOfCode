@@ -138,7 +138,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Was working on the community website | I remembered how much I suck at front-end  | uniphyd.club |
+| Was working on the community website | I remembered how much I suck at front-end  | [uniphyd.club](uniphyd.club) |
 
 
 #### Nikhil Singh
@@ -150,5 +150,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ### Day 3: August 03, 2018
 
-
-
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| x | x | x |
