@@ -94,26 +94,22 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started with some JavaScript basics and did some Node| Working on a project for a session on Node |  |
 
-### Day 1: August 01, 2018
-
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
-
-### Day 1: August 01, 2018
 
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Learnt cascading and inheritance in html/css| Kinda interesting there's inheritance in html :) |PASS |
 
-### Day 1: August 01, 2018
-
 #### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Started Basics of Java | x | x |
+
+---
 
 ### Day 2: August 02, 2018
 
@@ -122,10 +118,17 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Basics of Python | x | x |
 
-### Day 2: August 02, 2018
-
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Learnt Web responsive design | media queries makes styling easy :) | x |
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Was working on the community website | I remembered how much I suck at front-end  | uniphyd.club |
+
+---
+
+### Day 3: August 03, 2018
 
