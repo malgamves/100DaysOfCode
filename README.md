@@ -153,7 +153,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| Built my first react native app| everything is buggy on ubuntu, workds well on windows, got comfortable with running on expo | x |
 
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
