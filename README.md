@@ -99,6 +99,13 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Started with hands-on in Python for Machine learning| Learning Machine Learning A-Z with Python and R |  |
 
+
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Started with blockchain course on Nptel | Basics of blockchain | x |
+
+
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -132,6 +139,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Was working on the community website | I remembered how much I suck at front-end  | [uniphyd.club](uniphyd.club) |
+
+
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| 50% of week 1 done of Blockchain | Quite interesting. Distributed and decentralized systems| x |
 
 ---
 
