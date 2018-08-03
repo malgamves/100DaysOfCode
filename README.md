@@ -149,6 +149,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 ---
 
 ### Day 3: August 03, 2018
->>>>>>> master
+
 
 
