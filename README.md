@@ -122,3 +122,10 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Basics of Python | x | x |
 
+### Day 2: August 02, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learnt Web responsive design | media queries makes styling easy :) | x |
+
