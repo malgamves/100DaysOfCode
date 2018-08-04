@@ -160,3 +160,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Tried out data processing template | Love how this whole course is hands-on | x |
 
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Continued with the blockchain course | Came to know about Blockchain 2.0 and Smart Contracts, used for various platforms like ethereum, ripple, hyperledger. | x |
+
