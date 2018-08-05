@@ -177,9 +177,23 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Built my first Flutter app| Relatively simple app(all it does is displays a plain green rectangle), Runs both on Ios and Android | https://github.com/DenDenMello/LearnFlutter.git |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Simple linear regression in Python | | |
+
 #### Nikhil Singh
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Again the blockchain course| Merkle Tree, most important part of whole blockchain process! |
+| Again the blockchain course| Merkle Tree, most important part of whole blockchain process! | x |
+
+### Day 5: August 05, 2018
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Multiple linear regression in Python | | |
+
+
 
 
