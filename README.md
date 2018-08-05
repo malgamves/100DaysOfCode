@@ -160,3 +160,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Tried out data processing template | Love how this whole course is hands-on | x |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
+
