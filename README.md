@@ -204,7 +204,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learning Flutter| 2 Flutter app, learnt inkwell and make task_2, Runs both on iOS and Android | https://github.com/DenDenMello/LearnFlutter.git |
 
-#### Daniginesel Phiri
+#### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
