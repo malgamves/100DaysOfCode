@@ -175,7 +175,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Built my first Flutter app| Relatively simple app(all it does is displays a plain green rectangle), Runs both on Ios and Android | https://github.com/DenDenMello/LearnFlutter.git |
+| Built my first Flutter app| Relatively simple app(all it does is displays a plain green rectangle), Runs both on iOS and Android | https://github.com/DenDenMello/LearnFlutter.git |
 
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
@@ -194,6 +194,10 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Multiple linear regression in Python | | |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learning Flutter| 2 Flutter app, learnt inkwell and make task_2, Runs both on iOS and Android | https://github.com/DenDenMello/LearnFlutter.git |
 
 
 
