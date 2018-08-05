@@ -187,6 +187,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Again the blockchain course| Merkle Tree, most important part of whole blockchain process! | x |
 
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did some C for a blog post I'm working on | Learned about how native code is compiled and executed | x |
+
 ### Day 5: August 05, 2018
 
 #### Vishwa Mehta
@@ -198,6 +203,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Learning Flutter| 2 Flutter app, learnt inkwell and make task_2, Runs both on iOS and Android | https://github.com/DenDenMello/LearnFlutter.git |
+
+#### Daniginesel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
 
 
 
