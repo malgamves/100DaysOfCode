@@ -165,3 +165,15 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Continued with the blockchain course | Came to know about Blockchain 2.0 and Smart Contracts, used for various platforms like ethereum, ripple, hyperledger. | x |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
+
+### Day 4: August 04, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Built my first Flutter app| Relatively simple app(all it does is displays a plain green rectangle), Runs both on Ios and Android | https://github.com/DenDenMello/LearnFlutter.git |
+
