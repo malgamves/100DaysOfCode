@@ -160,3 +160,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Tried out data processing template | Love how this whole course is hands-on | x |
 
+### Day 4: August 04, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Built my first Flutter app| Relatively simple app(all it does is displays a plain green rectangle), Runs both on Ios and Android | https://github.com/DenDenMello/LearnFlutter.git |
