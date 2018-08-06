@@ -229,5 +229,5 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Finished my online resume |I used HTML and CSS|https://briananointed.github.io/Resume/|
+| Finished my online resume |I used HTML and CSS|https://github.com/briananointed/Resume|
 
