@@ -165,12 +165,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Continued with the blockchain course | Came to know about Blockchain 2.0 and Smart Contracts, used for various platforms like ethereum, ripple, hyperledger. | x |
 
-#### Brian Wachira
+#### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
 
-#### Dennis Dmello
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Worked on a Resume website | used html,css only |https://briananointed.github.io/Resume/ |
