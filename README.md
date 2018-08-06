@@ -170,6 +170,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
 
+---
+
 ### Day 4: August 04, 2018
 
 #### Dennis Dmello
@@ -192,6 +194,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did some C for a blog post I'm working on | Learned about how native code is compiled and executed | x |
 
+---
+
 ### Day 5: August 05, 2018
 
 #### Vishwa Mehta
@@ -208,6 +212,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
+
+---
 
 ### Day 6: August 06, 2018
 
