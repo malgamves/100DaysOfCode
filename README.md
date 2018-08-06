@@ -165,10 +165,15 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Continued with the blockchain course | Came to know about Blockchain 2.0 and Smart Contracts, used for various platforms like ethereum, ripple, hyperledger. | x |
 
-#### Dennis Dmello
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on a Resume website | used html,css only |https://briananointed.github.io/Resume/ |
 
 ### Day 4: August 04, 2018
 
@@ -192,6 +197,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did some C for a blog post I'm working on | Learned about how native code is compiled and executed | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Brainstormed on ideas| I saw a web app with java backend. Pretty cool :) | x |
+
 ### Day 5: August 05, 2018
 
 #### Vishwa Mehta
@@ -209,5 +219,15 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| I brainstormed ideas| x | x |
 
+### Day 6: August 06, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Finished my online resume |I used HTML and CSS|https://briananointed.github.io/Resume/|
 
