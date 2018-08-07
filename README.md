@@ -170,6 +170,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Still on Basics of Python | Tried Tuples, Dictionaries and OOP in Python | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on a Resume website | used html,css only |https://briananointed.github.io/Resume/ |
+
 ### Day 4: August 04, 2018
 
 #### Dennis Dmello
@@ -191,6 +196,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Did some C for a blog post I'm working on | Learned about how native code is compiled and executed | x |
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Brainstormed on ideas| I saw a web app with java backend. Pretty cool :) | x |
 
 ### Day 5: August 05, 2018
 
@@ -214,5 +224,15 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Resumed my Android Course on udacity| Completed Multiscreen app and made a simplest music player with play and pause button. Will try to make more visually stunning with more features.| x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| I brainstormed ideas| x | x |
 
+### Day 6: August 06, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Finished my online resume |I used HTML and CSS|https://github.com/briananointed/Resume|
 
