@@ -219,6 +219,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
 
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Resumed my Android Course on udacity| Completed Multiscreen app and made a simplest music player with play and pause button. Will try to make more visually stunning with more features.| x |
+
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
