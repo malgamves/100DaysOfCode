@@ -176,7 +176,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | Worked on a Resume website | used html,css only |https://briananointed.github.io/Resume/ |
 
 ---
-=======
 
 ### Day 4: August 04, 2018
 
@@ -205,8 +204,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Brainstormed on ideas| I saw a web app with java backend. Pretty cool :) | x |
 ---
-=======
-
 
 ### Day 5: August 05, 2018
 
@@ -234,7 +231,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| Getting comfortable in OOP approach | x |
 
-=======
 #### Nikhil Singh
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
