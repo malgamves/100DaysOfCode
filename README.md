@@ -175,6 +175,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Worked on a Resume website | used html,css only |https://briananointed.github.io/Resume/ |
 
+---
+=======
+
 ### Day 4: August 04, 2018
 
 #### Dennis Dmello
@@ -201,6 +204,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Brainstormed on ideas| I saw a web app with java backend. Pretty cool :) | x |
+---
+=======
+
 
 ### Day 5: August 05, 2018
 
@@ -219,6 +225,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Going strong with JavaScript, getting comfortable with the ecosystem | JIT compilers and how they're optimized in JavaSCript engines | x |
 
+---
+
+### Day 6: August 06, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did Java Today| Getting comfortable in OOP approach | x |
+
+=======
 #### Nikhil Singh
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -229,7 +245,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | I brainstormed ideas| x | x |
 
-### Day 6: August 06, 2018
+### Day 7: August 07, 2018
 
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
