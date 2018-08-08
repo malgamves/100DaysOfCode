@@ -241,10 +241,20 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | I brainstormed ideas| x | x |
 
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Some C today, not enjoying it | x | x |
+
 ### Day 7: August 07, 2018
 
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Finished my online resume |I used HTML and CSS|https://github.com/briananointed/Resume|
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| More C and WebAessembly | Final touches on a blog post, kinda interesting what WebAssembly does.. looking forward to React Native tomorrow | x |
 
