@@ -267,7 +267,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ---
 
-### Day 7: August 07, 2018#### Dennis Dmello
+### Day 8: August 08, 2018
+
+#### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Did Java Today| applying everything i learnt to make a simple terminal ased game named "DotComGame". Will link it up as soon as i complete it | x |
