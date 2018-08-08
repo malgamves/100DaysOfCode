@@ -274,3 +274,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| applying everything i learnt to make a simple terminal ased game named "DotComGame". Will link it up as soon as i complete it | x |
 
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding pattern | x |
