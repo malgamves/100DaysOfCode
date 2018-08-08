@@ -246,6 +246,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Some C today, not enjoying it | x | x |
 
+---
+
 ### Day 7: August 07, 2018
 
 #### Brian Wachira
@@ -257,4 +259,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | More C and WebAessembly | Final touches on a blog post, kinda interesting what WebAssembly does.. looking forward to React Native tomorrow | x |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did Java Today| Ecapsulation | x |
+
+---
+
+### Day 7: August 07, 2018#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did Java Today| applying everything i learnt to make a simple terminal ased game named "DotComGame". Will link it up as soon as i complete it | x |
 
