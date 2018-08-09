@@ -246,6 +246,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Some C today, not enjoying it | x | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Polynomial Regression | Next few chapters include regression algorithms. | Loving the R language. Great for mathematical computing and Data Analysis |
+
 ---
 
 ### Day 7: August 07, 2018
@@ -265,6 +270,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| Ecapsulation | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Super Vector Regression | Trying to get more comfortable coding in R. | |
+
 ---
 
 ### Day 8: August 08, 2018
@@ -278,3 +288,17 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding pattern | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Decision Tree Regression | Practicing it in Python and R. R is so cool! | |
+
+---
+
+### Day 9: August 09, 2018
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Random Forest Regression | Done with all regression models. Pheww! | |
