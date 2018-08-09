@@ -246,6 +246,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Some C today, not enjoying it | x | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Polynomial Regression | Next few chapters include regression algorithms. | Loving the R language. Great for mathematical computing and Data Analysis |
+
 ---
 
 ### Day 7: August 07, 2018
@@ -265,10 +270,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| Ecapsulation | x |
 
+
 #### Nikhil Singh
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Moving Forward with Android| After making an audio player, applying those methods to implement on complex app, Miwok App| x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Super Vector Regression | Trying to get more comfortable coding in R. | |
 
 ---
 
@@ -279,6 +290,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| applying everything i learnt to make a simple terminal ased game named "DotComGame". Will link it up as soon as i complete it | x |
 
+#### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding pattern | x |
@@ -287,3 +299,18 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Switching back to Blockchain, Completed week 1.| Came to know about Distributed web system. IPFS - InterPlanetary File System, a peer-to-peer of storing and sharing hypermedia. Have a look -> | https://ipfs.io/ |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Decision Tree Regression | Practicing it in Python and R. R is so cool! | |
+
+---
+
+### Day 9: August 09, 2018
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Random Forest Regression | Done with all regression models. Pheww! | |
+
