@@ -265,6 +265,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did Java Today| Ecapsulation | x |
 
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Moving Forward with Android| After making an audio player, applying those methods to implement on complex app, Miwok App| x |
+
 ---
 
 ### Day 8: August 08, 2018
@@ -277,3 +282,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding pattern | x |
+
+#### Nikhil Singh
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Switching back to Blockchain, Completed week 1.| Came to know about Distributed web system. IPFS - InterPlanetary File System, a peer-to-peer of storing and sharing hypermedia. Have a look -> | https://ipfs.io/ |
