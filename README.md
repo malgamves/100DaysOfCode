@@ -293,7 +293,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding pattern | x |
+| Back to react, little theory and emulator trouble shooting | so i found out ES6 is short for ECMAScript.. the JS coding standard | x |
 
 #### Nikhil Singh
 | What did you do today? | Comment(s) | Link(s) |
@@ -318,4 +318,9 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Encapsulation | getting comfy with getters() and setters()  | X |
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Finishing things up with C# for a blogpost | Trying to get stuff out of the way so I can do React :( | x |
 
