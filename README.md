@@ -314,3 +314,8 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Random Forest Regression | Done with all regression models. Pheww! | |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Encapsulation | getting comfy with getters() and setters()  | X |
+
