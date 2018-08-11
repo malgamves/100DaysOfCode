@@ -324,3 +324,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Finishing things up with C# for a blogpost | Trying to get stuff out of the way so I can do React :( | x |
 
+### Day 10: August 10, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Friday night, Gonna do a weekend project and get a simple app done | So many rules I'm learning about, despite beinhg dynamic JavaScript has some pretty strict programming standards. | x |
+
+### Day 11: August 11, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| x | x | x |
