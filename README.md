@@ -338,7 +338,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Made an app, very basic getting comfortable with views | The amount of elements we can edit is amazing! | x |
 
-### Day 12: August 11, 2018
+### Day 12: August 12, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
