@@ -350,6 +350,6 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| How to store data in React - too many choices, might go with GraphQL | Getting comfortable with JavaScript, no need to drag and drop \* Whispers to Android Studio \* | x |
 
 
