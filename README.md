@@ -344,3 +344,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Was doing some JS front-end for Weather App we made in last meetup | x | x |
+
+### Day 13: August 13, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| x | x | x |
+
+
