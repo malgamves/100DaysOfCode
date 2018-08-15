@@ -331,12 +331,22 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Friday night, Gonna do a weekend project and get a simple app done | So many rules I'm learning about, despite beinhg dynamic JavaScript has some pretty strict programming standards. | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Some Kaggle fun, yayy! | testing out my knowledge in ML models so far | |
+
 ### Day 11: August 11, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Made an app, very basic getting comfortable with views | The amount of elements we can edit is amazing! | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Forked a few ML notebooks. Played around for a while. | Kaggle is <3| |
 
 ### Day 12: August 12, 2018
 
@@ -345,11 +355,21 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Was doing some JS front-end for Weather App we made in last meetup | x | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Had a test so couldn't code much. Looked at some data cleaning codes. | R is so awesome! | |
+
 ### Day 13: August 13, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | How to store data in React - too many choices, might go with GraphQL | Getting comfortable with JavaScript, no need to drag and drop \* Whispers to Android Studio \* | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Laid back and chilled out day for me. Had fun with data visualisation. | | |
 
 
