@@ -380,7 +380,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | JavaScript is quite something, more concepts to learn -  worked on the sample weather app | Dealing with callbacks vs dealing with promises | x |
 
 
-### Day 14: August 14, 2018
+### Day 15: August 15, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
