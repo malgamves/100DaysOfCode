@@ -386,3 +386,25 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | More of JavaScript being a pain, looking for video content to explain concepts. | Got the app running but the view engine was a little glitchy | x |
+
+### Day 16: August 16, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Doing some Node.js for a blog post | X | x |
+
+
+### Day 17: August 17, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Another blogpost with JS | x | x |
+
+### Day 18: August 18, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Starting a course on Modern JavaScript | x | x |
