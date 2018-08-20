@@ -305,6 +305,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Decision Tree Regression | Practicing it in Python and R. R is so cool! | |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learnt about bootstrap | recreated wikipegia website layout | x |
+
 ---
 
 ### Day 9: August 09, 2018
@@ -379,6 +384,10 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | JavaScript is quite something, more concepts to learn -  worked on the sample weather app | Dealing with callbacks vs dealing with promises | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learnt javascript | its a good language | x |
 
 ### Day 15: August 15, 2018
 
@@ -386,6 +395,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | More of JavaScript being a pain, looking for video content to explain concepts. | Got the app running but the view engine was a little glitchy | x |
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| started Jquery  | php has competition | x |
 
 ### Day 16: August 16, 2018
 
@@ -402,9 +416,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Another blogpost with JS | x | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learnt using forms and branching using jquery| x | x |
+
 ### Day 18: August 18, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Starting a course on Modern JavaScript | x | x |
+
+
