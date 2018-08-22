@@ -442,14 +442,14 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Python testing and som Django | Some Django packages do not work with Python 2 | x |
 
-### Day 20: August 20, 2018
+### Day 21: August 21, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Skipped this day :( | x | x |
 
-### Day 18: August 18, 2018
+### Day 22: August 22, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
