@@ -341,6 +341,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Some Kaggle fun, yayy! | testing out my knowledge in ML models so far | |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Started with Java API, ArrayList to be specific | x |
+
+
 ### Day 11: August 11, 2018
 
 #### Daniel Phiri
@@ -352,6 +358,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Forked a few ML notebooks. Played around for a while. | Kaggle is <3| |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Java API, ArrayList, still Exploring ArrayList, Also worked a bit more on DotComGame | x |
 
 ### Day 12: August 12, 2018
 
@@ -365,6 +376,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Had a test so couldn't code much. Looked at some data cleaning codes. | R is so awesome! | |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | String in Java(started String class and StringBuffer class), also re-did the DotComGame | x |
+
 ### Day 13: August 13, 2018
 
 #### Daniel Phiri
@@ -376,6 +392,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Laid back and chilled out day for me. Had fun with data visualisation. | | |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Practiced on diffrent web platform, need that motivation ! | x |
+
 
 ### Day 14: August 14, 2018
 
@@ -389,10 +411,17 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learnt javascript | its a good language | x |
 
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Python | to mix this up a bit, started with python course on kaggle and mixed it up with codecademy | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Explored a few datasets and looked into projects I could use them in.| | |
+
 
 
 ### Day 15: August 15, 2018
@@ -407,6 +436,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | started Jquery  | php has competition | x |
 
+### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Python | did some more on kaggle and also read some material from python website(P.S. its way better than most of the online tutorials ) | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -419,6 +453,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Doing some Node.js for a blog post | X | x |
+
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Python | Practicing python, writing in python is just so relaxing ;) | x |
 
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
@@ -439,6 +479,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learnt using forms and branching using jquery| x | x |
 
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Back to Java, started with inheritance  | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -451,6 +497,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Starting a course on Modern JavaScript | x | x |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | I don't seem to get interface | x |
 
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
@@ -465,6 +516,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | JavaScript | figuring out that there's no need to learn anything else but modern JavaScript | x |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Did university syllabus(prepared for weeklies) | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -478,11 +534,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Python testing and som Django | Some Django packages do not work with Python 2 | x |
 
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | got past interface and Polymorphism | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Learned how data can come together to serve real world purposes. | | |
-
 
 ### Day 21: August 21, 2018
 
@@ -490,6 +551,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Skipped this day :( | x | x |
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Serious Polymorphism(Studied heap and stack, where objects and variables live) | x |
 
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
@@ -504,7 +570,19 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | x | x | x |
 
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | General practicing | x |
+
 #### Vishwa Mehta
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |More R for data set-up. | | |
+
+### Day 23: August 23, 2018
+
+#### Dennis Dmello
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Java | Static and final...checked ! | x |
