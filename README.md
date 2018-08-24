@@ -389,6 +389,12 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learnt javascript | its a good language | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Explored a few datasets and looked into projects I could use them in.| | |
+
+
 ### Day 15: August 15, 2018
 
 #### Daniel Phiri
@@ -401,12 +407,24 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | started Jquery  | php has competition | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learned more about Image Processing. |Might work on it for Final year project.| |
+
+
 ### Day 16: August 16, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Doing some Node.js for a blog post | X | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Started the SQl series on Kaggle.| Love working with data.| |
+
 
 
 ### Day 17: August 17, 2018
@@ -421,12 +439,24 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Learnt using forms and branching using jquery| x | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learning to use Google BigQuery for SQl. |Great for humungous datasets. | |
+
+
 ### Day 18: August 18, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Starting a course on Modern JavaScript | x | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Brushing up my SQL skills. | | |
+
 
 ### Day 19: August 19, 2018
 
@@ -435,12 +465,24 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | JavaScript | figuring out that there's no need to learn anything else but modern JavaScript | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Handling data and drawing more insights with BigQuery. | | |
+
+
 ### Day 20: August 20, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Python testing and som Django | Some Django packages do not work with Python 2 | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learned how data can come together to serve real world purposes. | | |
+
 
 ### Day 21: August 21, 2018
 
@@ -449,9 +491,20 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Skipped this day :( | x | x |
 
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Organising complex queries for better readability. | Done with the SQL series yayy!| |
+
+
 ### Day 22: August 22, 2018
 
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | x | x | x |
+
+#### Vishwa Mehta
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|More R for data set-up. | | |
