@@ -594,7 +594,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 ### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Still working on my assignment| I am done with the front end part of the app. I am trying to add a hamburger menu on the uppper left of my web app | x |
+| Still working on my assignment| I am done with the front end part of the app. I have trying to add a hamburger menu icon on the uppper left of my web app and make it functional. I think i'll add it next time. If you can help kindly do so | x |
 
 ### Day 23: August 23, 2018
 
