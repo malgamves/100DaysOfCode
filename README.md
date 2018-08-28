@@ -579,7 +579,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| Skipped this day :( | x | x |
 
 #### Dennis Dmello
 | What did you do today? | Comment(s) | Link(s) |
@@ -608,9 +608,47 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 |Almost done with my assignment. I am open to critiques btw|I am trying to integrate mailchimp to my website's subscribe button. mailchimp api has a lot of complications. I think I can do without it for now | x |
 
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Skipped this day :( | x | x |
+
 ### Day 24: August 24, 2018
 
 ### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Final day. Submitting it to GitHub|finally. Though it looks messy on a phone, the desktop view is awesome. I am open to critiques btw | https://brianwachira.github.io/Anitas-Kitchen/ |
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Got back some motivation! Worked with JavaScript - going through type conversions | x | x |
+
+### Day 25: August 25, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did some basic browser Manipulations. Getting to know the difference between JS functionality in different run time envs | x | x |
+
+### Day 26: August 26, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Found out about *use strict* and how it seperates old and modern JavaScript so old stuff doesnt crash  | x | x |
+
+### Day 27: August 27, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| x | x | x |
+
+### Day 28: August 28, 2018
+
+#### Daniel Phiri
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| x | x | x |
