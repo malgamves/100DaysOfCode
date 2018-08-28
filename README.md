@@ -545,7 +545,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 |Learned how data can come together to serve real world purposes. | | |
 
-### Brian Wachira
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | started working on a personal assignment |It covers everything I have learnt about web dev (client side)| x |
@@ -568,7 +568,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 |Organising complex queries for better readability. | Done with the SQL series yayy!| |
 
-### Brian Wachira
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Still working on the assignment| I have had rough times with bootstrap classes but I win all the time | x |
@@ -603,7 +603,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Java | Static and final...checked ! | x |
 
-### Brian Wachira
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Almost done with my assignment. I am open to critiques btw|I am trying to integrate mailchimp to my website's subscribe button. mailchimp api has a lot of complications. I think I can do without it for now | x |
@@ -615,7 +615,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ### Day 24: August 24, 2018
 
-### Brian Wachira
+#### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Final day. Submitting it to GitHub|finally. Though it looks messy on a phone, the desktop view is awesome. I am open to critiques btw | https://brianwachira.github.io/Anitas-Kitchen/ |
