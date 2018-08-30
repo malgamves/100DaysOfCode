@@ -644,7 +644,7 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 #### Daniel Phiri
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| Don't regret taking the Modern JS course, so many things I didnt know about JS like operators and how crazy JS can be| x | x |
 
 ### Day 28: August 28, 2018
 
