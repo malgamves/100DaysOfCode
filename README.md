@@ -632,6 +632,11 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 |:-----------------------|:-----------|:--------|
 | Did some basic browser Manipulations. Getting to know the difference between JS functionality in different run time envs | x | x |
 
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| practised branching in js| this is basically if else | x |
+
 ### Day 26: August 26, 2018
 
 #### Daniel Phiri
@@ -652,3 +657,54 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | x | x | x |
+
+### Day 29: August 29, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| getting back on track to projects| had a long weekend that ended today evening :) | x |
+
+### Day 30: August 30, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| learnt javascript arrays, forEach() and map()| programming syntax is almost the same across all platforms | x |
+
+### Day 31: August 31, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|looked at the for loop in js| x | x |
+
+### Day 32: September 1, 2018
+
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Day 33: September 2, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| practising using Behavior Drven Development in the business logic of a web app| it is very convinient to break down your problem into a behavior and handle them from the least to the greatest | x |
+
+### Day 33: September 3, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| used BDD to create a pig latin translator app| breaking down a problem seems kind of time consuming since I'm used to handling what I know (which is everything) at once. However in the end the results are quite pleasing | x |
+
+### Day 34: September 4, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| I worked on a Roman Numerals app the BDD way|  | x |
