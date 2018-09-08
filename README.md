@@ -708,3 +708,26 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | I worked on a Roman Numerals app the BDD way|  | x |
+
+### Day 35: September 5, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Still working on the roman numerals app|  1 - 5 roman encoding works :)| x |
+
+### Day 36: September 6, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Still working on the roman numerals app|  trying to get 1 - 10 encoding to work| x |
+
+### Day 37: September 7, 2018
+
+#### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| roman numerals app :triumph:| welcomed external help from codewars and coding blogs :sweat_smile:| x |
+
+### Day 38: September 8, 2018
