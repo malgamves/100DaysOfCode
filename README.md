@@ -697,12 +697,20 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ### Day 33: September 3, 2018
 
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | used BDD to create a pig latin translator app| breaking down a problem seems kind of time consuming since I'm used to handling what I know (which is everything) at once. However in the end the results are quite pleasing | x |
 
 ### Day 34: September 4, 2018
+
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
 
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
@@ -711,12 +719,20 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ### Day 35: September 5, 2018
 
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Still working on the roman numerals app|  1 - 5 roman encoding works :)| x |
 
 ### Day 36: September 6, 2018
+
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
 
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
@@ -725,9 +741,16 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 
 ### Day 37: September 7, 2018
 
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
 #### Brian Wachira
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | roman numerals app :triumph:| welcomed external help from codewars and coding blogs :sweat_smile:| x |
 
 ### Day 38: September 8, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
