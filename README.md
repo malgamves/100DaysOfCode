@@ -754,3 +754,24 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |x| x | x |
+
+### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Quit roman numerals. Did a pingpong app| quite easier than roman numerals | x |
+
+
+### Day 39: September 9, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Day 40: September 10, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learnt about OOP in js. how to make constructors and methods| x | x |
