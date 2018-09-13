@@ -775,3 +775,33 @@ Anyone who backs out has to get each of the others a 100Rs giftcard.
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Learnt about OOP in js. how to make constructors and methods| x | x |
+
+### Day 41: September 11, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learnt about OOP in js. how to make constructors and methods| x | x |
+
+### Day 42: September 12, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| AJAX & JSON by using open weather API. I also learnt about RESTful API's. I really hope I haven't repeated myself| x | x |
+
+### Day 43: September 13, 2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|x| x | x |
+
+### Brian Wachira
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Learnt to use underscore.js and objects within objects| underscore makes life easy | x |
