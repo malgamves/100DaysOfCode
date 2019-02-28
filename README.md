@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Change
 
 This is the #100DaysOfCode log. It will start August 1st, 2018 and end on November 9th, 2018.
 
